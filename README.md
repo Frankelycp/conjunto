@@ -1,1 +1,1 @@
-# conjunto
+Existen dos reglas que identifican dos conjuntos de valores: 1. El número es de un solo dígito. 2. El número es impar. A partir de estas reglas, creá un algoritmo que asigne a las variables booleanas ​estaEnA​,               estaEnB​, ​estaEnAmbos y ​noEstaEnNinguno el valor verdadero o falso
